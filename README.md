@@ -4,10 +4,6 @@
 
 # Personal portfolio
 
-This is my personal portfolio. <br>
-The webpage contains 4 sectons:
- 1.home
- 2.about me
- 3.resume
- 4.contact
+This is my personal portfolio. 
+
 
