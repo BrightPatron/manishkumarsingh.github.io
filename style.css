@@ -13,14 +13,17 @@ html, body {
 .topnav {
     background-color: #F2E5E5;
     overflow: hidden;
+    display: flex;
+    align-items: center;
   }
   
   /* Style the links inside the navigation bar */
   .topnav a {
-    float: left;
+    /*float: left;*/
     color: #2B3A55;
-    text-align: center;
-    padding: 25px 30px;
+    /*text-align: center;*/
+    /*padding: 25px 30px;*/
+    padding: 17px 20px;
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
