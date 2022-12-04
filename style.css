@@ -12,7 +12,6 @@ html, body {
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #F2E5E5;
-    overflow: hidden;
     display: flex;
     align-items: center;
   }
