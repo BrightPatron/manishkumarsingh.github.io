@@ -2,7 +2,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![FONTAWESOME](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
-# manishkumarsingh.portfolio
+# Personal portfolio
 
 This is my personal portfolio. 
+The webpage contains 4 sectons:
+##### home
+##### about me
+##### resume
+##### contact
 
