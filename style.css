@@ -44,7 +44,7 @@ html, body {
   }
 
   #home{
-    min-height: 85vh;
+    min-height: 90vh;
     margin-top: -95px;
     padding: 0px;
     text-align: center;
@@ -80,7 +80,7 @@ html, body {
   }
 
   #about p{
-    margin-left: 360px ;
+    margin-left: 390px ;
   }
 
   #about h1 {
